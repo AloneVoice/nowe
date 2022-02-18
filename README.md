@@ -1,2 +1,2 @@
-## To są moje testy GitHub'a
+# To są moje testy GitHub'a
 # A tutaj będzie link to GitHub Page
