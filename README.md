@@ -1,2 +1,2 @@
-# To są moje testy GitHub'a
-## A tutaj link do GitHub Page: https://alonevoice.github.io/nowe/
+# To są moje testy JS'a
+## A tutaj link do skryptu piszącego: https://alonevoice.github.io/nowe/
